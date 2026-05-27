@@ -31,6 +31,6 @@ to go deep before I specialize.
 
 ---
 
-**Reach out** — [Portfolio](https://juaniznardo.com) · [LinkedIn](https://www.linkedin.com/in/juan-jes%C3%BAs-iznardo-313429326/) · open to junior roles and internships
+**Reach out** — [Portfolio](https://juaniznardo.com) · [LinkedIn](https://www.linkedin.com/in/juan-jes%C3%BAs-iznardo-313429326/) · open to work / universitary practices
 
 <sub>Currently finishing my degree.</sub>
