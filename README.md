@@ -15,19 +15,12 @@ to go deep before I specialize.
 
 ### GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanIzn&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanIzn&show_icons=true&hide_border=true&bg_color=00000000" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JuanIzn&hide_border=true&theme=dark&background=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanIzn&hide_border=true&background=00000000" />
-</picture>
+| ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=JuanIzn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=JuanIzn&theme=tokyonight&hide_border=false) |
+| :---: | :---: |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIzn&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIzn&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanIzn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
