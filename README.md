@@ -32,9 +32,5 @@ to go deep before I specialize.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanIzn&hide_border=true&background=00000000" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanIzn&show_icons=true&hide_border=true&theme=transparent&hide=stars&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanIzn&show_icons=true&hide_border=true&hide=stars&bg_color=00000000" />
-</picture>
 
 <sub>Currently finishing my degree.</sub>
