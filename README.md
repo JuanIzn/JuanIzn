@@ -77,11 +77,9 @@ to go deep before I specialize.
 
 
 ### GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=JuanIzn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=JuanIzn&theme=tokyonight&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.shion.dev/api/top-langs/?username=JuanIzn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,astro,css,html&langs_count=6) | ![GitHub Streak](https://streak-stats.demolab.com/?user=JuanIzn&theme=tokyonight&hide_border=false) |
 | :---: | :---: |
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanIzn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,astro,css,html&langs_count=6" alt="Top Languages" />
-</div>
+
 
 ---
 
