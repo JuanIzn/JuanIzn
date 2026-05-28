@@ -6,7 +6,7 @@ to go deep before I specialize.
 
 ```text
 ~ whoami
-  systems · infrastructure · automation
+  systems · infrastructure · ai
 ~ stack
   C  ·  Python  ·  Linux  ·  Docker  ·  Proxmox
 ```
