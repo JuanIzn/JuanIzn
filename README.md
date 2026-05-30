@@ -1,8 +1,6 @@
 ### Juan Iznardo
 
-Computer Engineer based in Spain. I work across the stack — from
-low-level systems to self-hosted infrastructure — figuring out where
-to go deep before I specialize.
+Computer Engineer student. figuring out where I specialize.
 
 ```text
 ~ whoami
