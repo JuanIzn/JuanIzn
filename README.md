@@ -80,6 +80,3 @@ Computer Engineer student. figuring out where I specialize.
 
 ---
 
-**Reach out** — [Portfolio](https://juaniznardo.com) · [LinkedIn](https://www.linkedin.com/in/juan-jes%C3%BAs-iznardo-313429326/) · open to work / universitary practices
-
-<sub>Currently finishing my degree.</sub>
