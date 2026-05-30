@@ -69,6 +69,7 @@ Computer Engineer student. figuring out where I specialize.
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 
 </details>
+
 ---
 
 ### GitHub Stats
