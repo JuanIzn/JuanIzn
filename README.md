@@ -1,6 +1,8 @@
 ### Juan Iznardo
 
-Computer Engineer student. figuring out where I specialize.
+Computer Engineer · Low-level systems, AI & robotics
+
+Founder @Aurel-group
 
 ```text
 ~ whoami
